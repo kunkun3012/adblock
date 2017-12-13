@@ -1,19 +1,3 @@
-# ABPVN default blocklist
-# Blocking mobile ad providers and some analytics providers
-# 
-# Contribute:
-# Create an issue at https://github.com/abpvn/abpvn/issues
-#
-# Changelog:
-# Update hosts header
-# 
-# License:
-# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
-#
-# Contributions by:
-# HoĂ ng Rio
-#
-# [General]
 127.0.0.1 adtimaserver.vn
 127.0.0.1 eclick.vn
 127.0.0.1 admicro.vn
