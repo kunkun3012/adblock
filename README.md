@@ -9,7 +9,9 @@
 # Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
 #
 # =====================================================
-
+user add
+127.0.0.1 qc.x8.club
+127.0.0.1 steepto.com
 # --- Group block ---
 #[apple]
 127.0.0.1 ocsp.apple.com
